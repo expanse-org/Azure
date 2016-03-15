@@ -9,6 +9,6 @@
     "iconUri": "https://raw.githubusercontent.com/expanse-org/Azure/master/Artifacts/expanseArtifact.png",
     "targetOsType": "Linux",
     "runCommand": {
-            "commandToExecute": "['sh expanse_install_v1.sh']"
+            "commandToExecute": "['sh setup.sh']"
     }
 }
